@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/titanium/.gradle/caches/transforms-3/276b2c2687542dcec8b74f7543217967/transformed/jetified-AndroidDraw-v0.1/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/titanium/.gradle/caches/transforms-3/e4c104b76970c14c57fb3eb1d8a6f5b6/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/titanium/.gradle/caches/transforms-3/ec1836183e6c6d335e86b3aa2d79e759/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/titanium/.gradle/caches/transforms-3/c77efac96eff0ec45159075bf269e098/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/titanium/.gradle/caches/transforms-3/844b8683c5257b2b7372f1648f82660c/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] /Users/titanium/.gradle/caches/transforms-3/56020cdb212167a3024c46e18875c982/transformed/jetified-tensorflow-lite-2.5.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/titanium/.gradle/caches/transforms-3/a12c59c3592a339cb007717264d470b8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/titanium/.gradle/caches/transforms-3/4423a1bf6146d1b0b7562eec62f33937/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/titanium/.gradle/caches/transforms-3/0189b571ebdaa0ee33f29d6d9d460be7/transformed/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/titanium/.gradle/caches/transforms-3/97574dfa97fb4c4a7cce3ec5c437d077/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/titanium/.gradle/caches/transforms-3/5d6eca43f57e164379059cdcce65dbec/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/titanium/.gradle/caches/transforms-3/c4bb89f83e5ce3cf3f8031ff649b4bab/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/titanium/.gradle/caches/transforms-3/4846e20c4309c58c84795b4df24a7591/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/titanium/.gradle/caches/transforms-3/cbe4eb0010cc4ad64310f3f4845ec5ba/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/titanium/.gradle/caches/transforms-3/c6a138eff43afbddfed7bc6e282acb82/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/titanium/.gradle/caches/transforms-3/ce26851284e3f483d94eaf35446b6bc6/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/titanium/.gradle/caches/transforms-3/06b84dbed3dbebf7e2a38facb85a65dd/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/titanium/.gradle/caches/transforms-3/21e1a0130abbd56362604489ac336055/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/titanium/.gradle/caches/transforms-3/0ff545e49e742488291ef6ce5c00de90/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/titanium/.gradle/caches/transforms-3/702060e49f65474a009e806dacdc4700/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/titanium/.gradle/caches/transforms-3/8f6850539574224405e368507ed7d744/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/titanium/.gradle/caches/transforms-3/bf1c3223a985ab82fd89ab5a949d2746/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/titanium/.gradle/caches/transforms-3/608d84fd54d52af443376843ec7e35f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/titanium/.gradle/caches/transforms-3/30925bff879437e26d4fd36523fd5c6a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/titanium/.gradle/caches/transforms-3/449098f2c8ec78e695a777addc8775ed/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/titanium/.gradle/caches/transforms-3/2334984c1a028c3467410d761a9d9167/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/titanium/.gradle/caches/transforms-3/41eb277e32f2fbb00bb50739d35a31df/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/titanium/.gradle/caches/transforms-3/9f1c92248f7f896c22c8549d983ec2e3/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/titanium/.gradle/caches/transforms-3/eac74aa7abd6727584710ea5bfb3099b/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:4:11-65
+		INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/titanium/.gradle/caches/transforms-3/276b2c2687542dcec8b74f7543217967/transformed/jetified-AndroidDraw-v0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/titanium/.gradle/caches/transforms-3/276b2c2687542dcec8b74f7543217967/transformed/jetified-AndroidDraw-v0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/titanium/.gradle/caches/transforms-3/e4c104b76970c14c57fb3eb1d8a6f5b6/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/titanium/.gradle/caches/transforms-3/e4c104b76970c14c57fb3eb1d8a6f5b6/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/titanium/.gradle/caches/transforms-3/ec1836183e6c6d335e86b3aa2d79e759/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/titanium/.gradle/caches/transforms-3/ec1836183e6c6d335e86b3aa2d79e759/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/titanium/.gradle/caches/transforms-3/c77efac96eff0ec45159075bf269e098/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/titanium/.gradle/caches/transforms-3/c77efac96eff0ec45159075bf269e098/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/titanium/.gradle/caches/transforms-3/844b8683c5257b2b7372f1648f82660c/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/titanium/.gradle/caches/transforms-3/844b8683c5257b2b7372f1648f82660c/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] /Users/titanium/.gradle/caches/transforms-3/56020cdb212167a3024c46e18875c982/transformed/jetified-tensorflow-lite-2.5.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] /Users/titanium/.gradle/caches/transforms-3/56020cdb212167a3024c46e18875c982/transformed/jetified-tensorflow-lite-2.5.0/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/titanium/.gradle/caches/transforms-3/a12c59c3592a339cb007717264d470b8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/titanium/.gradle/caches/transforms-3/a12c59c3592a339cb007717264d470b8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/titanium/.gradle/caches/transforms-3/4423a1bf6146d1b0b7562eec62f33937/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/titanium/.gradle/caches/transforms-3/4423a1bf6146d1b0b7562eec62f33937/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/titanium/.gradle/caches/transforms-3/0189b571ebdaa0ee33f29d6d9d460be7/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/titanium/.gradle/caches/transforms-3/0189b571ebdaa0ee33f29d6d9d460be7/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/titanium/.gradle/caches/transforms-3/97574dfa97fb4c4a7cce3ec5c437d077/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/titanium/.gradle/caches/transforms-3/97574dfa97fb4c4a7cce3ec5c437d077/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/titanium/.gradle/caches/transforms-3/5d6eca43f57e164379059cdcce65dbec/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/titanium/.gradle/caches/transforms-3/5d6eca43f57e164379059cdcce65dbec/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/titanium/.gradle/caches/transforms-3/c4bb89f83e5ce3cf3f8031ff649b4bab/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/titanium/.gradle/caches/transforms-3/c4bb89f83e5ce3cf3f8031ff649b4bab/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/titanium/.gradle/caches/transforms-3/4846e20c4309c58c84795b4df24a7591/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/titanium/.gradle/caches/transforms-3/4846e20c4309c58c84795b4df24a7591/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/titanium/.gradle/caches/transforms-3/cbe4eb0010cc4ad64310f3f4845ec5ba/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/titanium/.gradle/caches/transforms-3/cbe4eb0010cc4ad64310f3f4845ec5ba/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/titanium/.gradle/caches/transforms-3/c6a138eff43afbddfed7bc6e282acb82/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/titanium/.gradle/caches/transforms-3/c6a138eff43afbddfed7bc6e282acb82/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/titanium/.gradle/caches/transforms-3/ce26851284e3f483d94eaf35446b6bc6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/titanium/.gradle/caches/transforms-3/ce26851284e3f483d94eaf35446b6bc6/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/titanium/.gradle/caches/transforms-3/06b84dbed3dbebf7e2a38facb85a65dd/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/titanium/.gradle/caches/transforms-3/06b84dbed3dbebf7e2a38facb85a65dd/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/titanium/.gradle/caches/transforms-3/21e1a0130abbd56362604489ac336055/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/titanium/.gradle/caches/transforms-3/21e1a0130abbd56362604489ac336055/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/titanium/.gradle/caches/transforms-3/0ff545e49e742488291ef6ce5c00de90/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/titanium/.gradle/caches/transforms-3/0ff545e49e742488291ef6ce5c00de90/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/titanium/.gradle/caches/transforms-3/702060e49f65474a009e806dacdc4700/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/titanium/.gradle/caches/transforms-3/702060e49f65474a009e806dacdc4700/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/titanium/.gradle/caches/transforms-3/8f6850539574224405e368507ed7d744/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/titanium/.gradle/caches/transforms-3/8f6850539574224405e368507ed7d744/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/titanium/.gradle/caches/transforms-3/bf1c3223a985ab82fd89ab5a949d2746/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/titanium/.gradle/caches/transforms-3/bf1c3223a985ab82fd89ab5a949d2746/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/titanium/.gradle/caches/transforms-3/608d84fd54d52af443376843ec7e35f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/titanium/.gradle/caches/transforms-3/608d84fd54d52af443376843ec7e35f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/titanium/.gradle/caches/transforms-3/30925bff879437e26d4fd36523fd5c6a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/titanium/.gradle/caches/transforms-3/30925bff879437e26d4fd36523fd5c6a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/titanium/.gradle/caches/transforms-3/449098f2c8ec78e695a777addc8775ed/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/titanium/.gradle/caches/transforms-3/449098f2c8ec78e695a777addc8775ed/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/titanium/.gradle/caches/transforms-3/2334984c1a028c3467410d761a9d9167/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/titanium/.gradle/caches/transforms-3/2334984c1a028c3467410d761a9d9167/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/titanium/.gradle/caches/transforms-3/41eb277e32f2fbb00bb50739d35a31df/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/titanium/.gradle/caches/transforms-3/41eb277e32f2fbb00bb50739d35a31df/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/titanium/.gradle/caches/transforms-3/9f1c92248f7f896c22c8549d983ec2e3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/titanium/.gradle/caches/transforms-3/9f1c92248f7f896c22c8549d983ec2e3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/titanium/.gradle/caches/transforms-3/eac74aa7abd6727584710ea5bfb3099b/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/titanium/.gradle/caches/transforms-3/eac74aa7abd6727584710ea5bfb3099b/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+	android:targetSdkVersion
+		INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+		INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+		MERGED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:6:3-15
+		INJECTED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:8:3-24:17
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/titanium/.gradle/caches/transforms-3/276b2c2687542dcec8b74f7543217967/transformed/jetified-AndroidDraw-v0.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/titanium/.gradle/caches/transforms-3/276b2c2687542dcec8b74f7543217967/transformed/jetified-AndroidDraw-v0.1/AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/titanium/.gradle/caches/transforms-3/e4c104b76970c14c57fb3eb1d8a6f5b6/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/titanium/.gradle/caches/transforms-3/e4c104b76970c14c57fb3eb1d8a6f5b6/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/titanium/.gradle/caches/transforms-3/844b8683c5257b2b7372f1648f82660c/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.1] /Users/titanium/.gradle/caches/transforms-3/844b8683c5257b2b7372f1648f82660c/transformed/jetified-play-services-tasks-17.2.1/AndroidManifest.xml:7:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] /Users/titanium/.gradle/caches/transforms-3/56020cdb212167a3024c46e18875c982/transformed/jetified-tensorflow-lite-2.5.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.5.0] /Users/titanium/.gradle/caches/transforms-3/56020cdb212167a3024c46e18875c982/transformed/jetified-tensorflow-lite-2.5.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/titanium/.gradle/caches/transforms-3/a12c59c3592a339cb007717264d470b8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.6.0] /Users/titanium/.gradle/caches/transforms-3/a12c59c3592a339cb007717264d470b8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /Users/titanium/.gradle/caches/transforms-3/06b84dbed3dbebf7e2a38facb85a65dd/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/titanium/.gradle/caches/transforms-3/06b84dbed3dbebf7e2a38facb85a65dd/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/titanium/.gradle/caches/transforms-3/608d84fd54d52af443376843ec7e35f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/titanium/.gradle/caches/transforms-3/608d84fd54d52af443376843ec7e35f9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/titanium/.gradle/caches/transforms-3/06b84dbed3dbebf7e2a38facb85a65dd/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:13:11-37
+	android:label
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:11:11-43
+	tools:ignore
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:15:11-50
+	android:roundIcon
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:12:11-56
+	android:icon
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:10:11-45
+	android:allowBackup
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:9:11-37
+	android:theme
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:14:11-42
+activity#org.tensorflow.lite.codelabs.digitclassifier.MainActivity
+ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:17:5-23:16
+	android:exported
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:18:15-38
+	android:name
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:17:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:19:7-22:23
+action#android.intent.action.MAIN
+ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:20:9-60
+	android:name
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:20:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from /Users/titanium/Desktop/CSE 535 MC/Project 2/examples-master/lite/codelabs/digit_classifier/android/start/app/src/main/AndroidManifest.xml:21:19-66
+activity#com.divyanshu.draw.activity.DrawingActivity
+ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/titanium/.gradle/caches/transforms-3/276b2c2687542dcec8b74f7543217967/transformed/jetified-AndroidDraw-v0.1/AndroidManifest.xml:12:9-14:66
+	android:theme
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/titanium/.gradle/caches/transforms-3/276b2c2687542dcec8b74f7543217967/transformed/jetified-AndroidDraw-v0.1/AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/titanium/.gradle/caches/transforms-3/276b2c2687542dcec8b74f7543217967/transformed/jetified-AndroidDraw-v0.1/AndroidManifest.xml:13:13-71
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/titanium/.gradle/caches/transforms-3/a12c59c3592a339cb007717264d470b8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/titanium/.gradle/caches/transforms-3/a12c59c3592a339cb007717264d470b8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.6.0] /Users/titanium/.gradle/caches/transforms-3/a12c59c3592a339cb007717264d470b8/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
